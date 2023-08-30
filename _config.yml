@@ -1,0 +1,54 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Zheling Meng's HomePage
+description: >- # this means to ignore newlines until "baseurl:"
+  Ph.D Candidate at Institute of Automation, Chinese Academy of Sciences in Computer Science.
+baseurl: "" # the subpath of the site
+url: "" # the base hostname & protocol for the site
+og_image: /assets/img/profile-pic.jpeg
+google_analytics: "Zheling Meng"
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Work
+    - name: Blog
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: zheling.meng@cripac.ia.ac.cn
+      link: mailto:zheling.meng@cripac.ia.ac.cn
+  follow:
+    - name: GitHub
+      link: https://github.com/RichardSunnyMeng
+    - name: Zhihu
+      link: https://www.zhihu.com/people/SunnyPicture
+    - name: Google
+      link: https://scholar.google.com/citations?user=3iPjpvQAAAAJ&hl=zh-CN&oi=ao
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
