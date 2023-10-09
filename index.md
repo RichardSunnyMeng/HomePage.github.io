@@ -39,19 +39,19 @@ profile_picture:
         Research in AIGC and its security (Supervised by Prof. <a href="https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=zh-CN&oi=ao">Tieniu Tan</a>, Academician of Chinese Academy of Sciences)
       </li>
       </ul>
-    <li>2020.09 - 2023.06 &nbsp; &nbsp; M.D. &nbsp; &nbsp; Institute of Automation Chinese Academy of Sciences</li>
+    <li>2020.09 - 2023.06 &nbsp; &nbsp; M.S. &nbsp; &nbsp; Institute of Automation Chinese Academy of Sciences</li>
       <ul>
       <li>
-        Receive M.D. in <i>Pattern Recognition and Intelligent Systems</i> at CAS Key Laboratory of Moleculer Imaging.
+        Receive M.S. in <i>Pattern Recognition and Intelligent Systems</i> at CAS Key Laboratory of Moleculer Imaging.
       </li>
       <li>
         Research in ultrasound medical image analysis (Supervised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=tkJAZR8AAAAJ">Kun Wang</a>)
       </li>
       </ul>
-    <li>2016.09 - 2020.06 &nbsp; &nbsp; Double B.D. &nbsp; &nbsp; Xi'an Jiaotong University</li>
+    <li>2016.09 - 2020.06 &nbsp; &nbsp; Double B.S. &nbsp; &nbsp; Xi'an Jiaotong University</li>
       <ul>
       <li>
-        Receive Double B.D. in <i>Information Engineering</i> at School of Information and Communication Engineering and in <i>Finance</i> at School of Economics and Finance. 
+        Receive Double B.S. in <i>Information Engineering</i> at School of Information and Communication Engineering and in <i>Finance</i> at School of Economics and Finance. 
       </li>
       </ul>
     </ul>
