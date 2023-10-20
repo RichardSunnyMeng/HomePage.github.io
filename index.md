@@ -65,6 +65,7 @@ profile_picture:
     <li>Yangyang Zhu<sup>#</sup>, <b>Zheling Meng</b><sup>#</sup>, Xiao Fan, Yin Duan, Yingying Jia, Tiantian Dong, Yanfang Wang, Juan Song, Jie Tian, Kun
 Wang<sup>*</sup>, Fang Nie<sup>*</sup>. Deep Learning Radiomics of Dual-modality Ultrasound Images for Hierarchical Diagnosis of Unexplained Cervical Lymphadenopathy. <i>BMC Medicine</i>, 20(1): 269-281, 2022. (JCR Q1，IF 11.150).</li>
     <li>Yangyang Zhu<sup>#</sup>, <b>Zheling Meng</b><sup>#</sup> et al. Deep learning radiomics of multimodal ultrasound for classifying metastatic cervical lymphadenopathy into primary cancer sites: a feasibility study. Accepted by <i>European Journal of Ultrasound</i> (JCR Q1, IF 5.445) </li>
+    <li>Haoyan Zhang, <b>Zheling Meng</b>, Jinyu Ru, Yaqing Meng, and Kun Wang<sup>*</sup>. Application and prospects of AI-based radiomics in ultrasound diagnosis. <i>Visual Computing for Industry, Biomedicine, and Art</i>, 6(1): 1-16, 2023. (IF 5.600).</li>
     <li>Chong Zhang, Jionghui Gu, Yangyang Zhu, <b>Zheling Meng</b>, Tong Tong, Dongyang Li, Zhenyu Liu, Yang Du, Kun Wang, Jie Tian<sup>*</sup>. AI in spotting high-risk characteristics of medical imaging and molecular pathology. <i>Precision Clinical Medicine</i>, 4(4): 271-286, 2021. (IF 5.300).</li>
   </ol>
 Co-first Author<sup>#</sup>, Corresponding Author<sup>*</sup>
