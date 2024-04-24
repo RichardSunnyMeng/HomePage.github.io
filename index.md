@@ -64,9 +64,19 @@ profile_picture:
     <li><b>Zheling Meng</b><sup>#</sup>, Yangyang Zhu<sup>#</sup>, Xiao Fan, Jie Tian, Fang Nie<sup>*</sup>, Kun Wang<sup>*</sup>. CEUSegNet: A Cross-Modality Lesion Segmentation Network for Contrast-Enhanced Ultrasound. <i>IEEE International Symposium on Biomedical Imaging</i> (<b>ISBI</b>), pp.1-5, Full Paper, 2022. (EI).</li>
     <li>Yangyang Zhu<sup>#</sup>, <b>Zheling Meng</b><sup>#</sup>, Xiao Fan, Yin Duan, Yingying Jia, Tiantian Dong, Yanfang Wang, Juan Song, Jie Tian, Kun
 Wang<sup>*</sup>, Fang Nie<sup>*</sup>. Deep Learning Radiomics of Dual-modality Ultrasound Images for Hierarchical Diagnosis of Unexplained Cervical Lymphadenopathy. <i>BMC Medicine</i>, 20(1): 269-281, 2022. (JCR Q1，IF 11.150).</li>
-    <li>Yangyang Zhu<sup>#</sup>, <b>Zheling Meng</b><sup>#</sup> et al. Deep learning radiomics of multimodal ultrasound for classifying metastatic cervical lymphadenopathy into primary cancer sites: a feasibility study. Accepted by <i>European Journal of Ultrasound</i> (JCR Q1, IF 5.445) </li>
+    <li>Mingbo Zhang<sup>#</sup>, <b>Zheling Meng</b><sup>#</sup>, Yi Mao, Xue Jiang, Ning Xu, Qinghua Xu, Jie Tian, Yukun Luo<sup>*</sup>, Kun Wang<sup>*</sup>. Deep Learning Radiomics of Dual-modality Ultrasound Images for Hierarchical Diagnosis of Unexplained Cervical Lymphadenopathy. <i>BMC Medicine</i>, 22(1): 1-13, 2024. (JCR Q1，IF 11.150).</li>
+    <li>Yangyang Zhu<sup>#</sup>, <b>Zheling Meng</b><sup>#</sup> et al. Deep learning radiomics of multimodal ultrasound for classifying metastatic cervical lymphadenopathy into primary cancer sites: a feasibility study. <i>European Journal of Ultrasound</i> (JCR Q1, IF 5.445) </li>
     <li>Haoyan Zhang, <b>Zheling Meng</b>, Jinyu Ru, Yaqing Meng, and Kun Wang<sup>*</sup>. Application and prospects of AI-based radiomics in ultrasound diagnosis. <i>Visual Computing for Industry, Biomedicine, and Art</i>, 6(1): 1-16, 2023. (IF 5.600).</li>
     <li>Chong Zhang, Jionghui Gu, Yangyang Zhu, <b>Zheling Meng</b>, Tong Tong, Dongyang Li, Zhenyu Liu, Yang Du, Kun Wang, Jie Tian<sup>*</sup>. AI in spotting high-risk characteristics of medical imaging and molecular pathology. <i>Precision Clinical Medicine</i>, 4(4): 271-286, 2021. (IF 5.300).</li>
+  </ol>
+Co-first Author<sup>#</sup>, Corresponding Author<sup>*</sup>
+</p>
+
+<h1>Preprint Publications</h1>
+<p>
+  <ol>
+    <li><b>Zheling Meng</b>, Bo Peng, Jing Dong<sup>*</sup>, Tieniu Tan. Artifact Feature Purification for Cross-domain Detection of AI-generated Images. <i>arXiv preprint arXiv:2403.11172</i>, 2024.</li>
+    <li><b>Zheling Meng</b>, Bo Peng, Jing Dong<sup>*</sup>. Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Space. <i>arXiv preprint arXiv:2404.00230</i>, 2024.</li>
   </ol>
 Co-first Author<sup>#</sup>, Corresponding Author<sup>*</sup>
 </p>
@@ -75,10 +85,10 @@ Co-first Author<sup>#</sup>, Corresponding Author<sup>*</sup>
 <p>
   <ol>
   <li>
-    图像的数据清洗方法、装置、电子设备及存储介质. 申请时间：2022-06-22；申请号：CN115205553A. <b>孟哲令</b>; 刘诗男; 侯军; 伊帅
+    图像的数据清洗方法、装置、电子设备及存储介质. 申请时间：2022-06-22；申请号：CN115205553A. <b>孟哲令</b>; 刘诗男; 侯军; 伊帅. (The work at SenseTime)
   </li>
   <li>
-    一种多视频节目匹配方法. 申请时间：2020-06-03；授权时间：2022-10-25；授权号：CN111737525B. 曹俊; <b>孟哲令</b>; 吴长丽
+    一种多视频节目匹配方法. 申请时间：2020-06-03；授权时间：2022-10-25；授权号：CN111737525B. 曹俊; <b>孟哲令</b>; 吴长丽. (The work at Xi'an Jiaotong University)
   </li>
   </ol>
 </p>
