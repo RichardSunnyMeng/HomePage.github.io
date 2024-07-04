@@ -11,9 +11,9 @@ profile_picture:
 </head>
   Welcome to my homepage! 
   
-  I am pursing my Ph.D at Center for Research on Intelligent Perception and Computing (CRIPAC), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation Chinese Academy of Sciences (IACAS). 
+  I am pursing my Ph.D at New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences. 
   
-  My research interests include Deep Learning, Computer Vision, Artificial Intelligence Generative Content and its security.
+  My research interests include Computer Vision and AIGC safety. Recently, I focus on defense against content risks of T2I diffusion models, especially with the help of concept erasure and LLM/VLM. Feel free to contact with me for communication and cooperation (Email: zheling.meng@cripac.ia.ac.cn).
 
 <br />
 <br />
@@ -84,6 +84,9 @@ Co-first Author<sup>#</sup>, Corresponding Author<sup>*</sup>
 <h1>Patents</h1>
 <p>
   <ol>
+  <li>
+    一种生成图像检测方法、装置、电子设备和存储介质. 申请时间：2023-12-29；申请号：CN117934922A. 董晶; 王伟; 彭勃; 王建文; <b>孟哲令</b>. (The work at CASIA)
+  </li>
   <li>
     图像的数据清洗方法、装置、电子设备及存储介质. 申请时间：2022-06-22；申请号：CN115205553A. <b>孟哲令</b>; 刘诗男; 侯军; 伊帅. (The work at SenseTime)
   </li>
