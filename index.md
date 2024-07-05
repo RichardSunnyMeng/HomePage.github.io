@@ -13,7 +13,9 @@ profile_picture:
   
   I am pursing my Ph.D at New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences. 
   
-  My research interests include Computer Vision and AIGC safety. Recently, I focus on defense against content risks of T2I diffusion models, especially with the help of concept erasure and LLM/VLM. Feel free to contact with me for communication and cooperation (Email: zheling.meng@cripac.ia.ac.cn).
+  My research interests include Computer Vision and AIGC safety. Recently, I focus on defense against content risks of T2I/T2V diffusion models, especially with the help of concept erasure and LLM/VLM. 
+  
+  Feel free to contact with me for communication and cooperation (Email: zheling.meng@cripac.ia.ac.cn).
 
 <br />
 <br />
@@ -30,16 +32,16 @@ profile_picture:
 </div>
 <p>
     <ul>
-    <li>2023.09 - now  &nbsp; &nbsp;  Ph.D. Candidate &nbsp; &nbsp; Institute of Automation Chinese Academy of Sciences</li>
+    <li>2023.09 - now  &nbsp; &nbsp;  Ph.D. Candidate &nbsp; &nbsp; Institute of Automation, Chinese Academy of Sciences</li>
       <ul>
       <li>
-         Work in <i>Computer Science</i> at Center for Research on Intelligent Perception and Computing (CRIPAC) & State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)
+         Work in <i>Computer Science</i> at New Laboratory of Pattern Recognition (NLPR) & State Key Laboratory of Multimodal Artificial Intelligence Systems
       </li>
       <li>
-        Research in AIGC and its security (Supervised by Prof. <a href="https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=zh-CN&oi=ao">Tieniu Tan</a>, Academician of Chinese Academy of Sciences)
+        Research in AIGC safety (Supervised by Prof. <a href="https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=zh-CN&oi=ao">Tieniu Tan</a>, Academician of Chinese Academy of Sciences)
       </li>
       </ul>
-    <li>2020.09 - 2023.06 &nbsp; &nbsp; M.S. &nbsp; &nbsp; Institute of Automation Chinese Academy of Sciences</li>
+    <li>2020.09 - 2023.06 &nbsp; &nbsp; M.S. &nbsp; &nbsp; Institute of Automation, Chinese Academy of Sciences</li>
       <ul>
       <li>
         Receive M.S. in <i>Pattern Recognition and Intelligent Systems</i> at CAS Key Laboratory of Moleculer Imaging.
