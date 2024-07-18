@@ -38,7 +38,7 @@ profile_picture:
          Work in <i>Computer Science</i> at New Laboratory of Pattern Recognition (NLPR) & State Key Laboratory of Multimodal Artificial Intelligence Systems
       </li>
       <li>
-        Research in AIGC safety (Supervised by Prof. <a href="https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=zh-CN&oi=ao">Tieniu Tan</a>, Academician of Chinese Academy of Sciences)
+        Research in AIGC safety (Advised by Prof. <a href="https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=zh-CN&oi=ao">Tieniu Tan</a>, Academician of Chinese Academy of Sciences)
       </li>
       </ul>
     <li>2020.09 - 2023.06 &nbsp; &nbsp; M.S. &nbsp; &nbsp; Institute of Automation, Chinese Academy of Sciences</li>
@@ -47,13 +47,32 @@ profile_picture:
         Receive M.S. in <i>Pattern Recognition and Intelligent Systems</i> at CAS Key Laboratory of Moleculer Imaging.
       </li>
       <li>
-        Research in ultrasound medical image analysis (Supervised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=tkJAZR8AAAAJ">Kun Wang</a>)
+        Research in ultrasound medical image analysis (Advised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=tkJAZR8AAAAJ">Kun Wang</a>)
       </li>
       </ul>
     <li>2016.09 - 2020.06 &nbsp; &nbsp; Double B.S. &nbsp; &nbsp; Xi'an Jiaotong University</li>
       <ul>
       <li>
         Receive Double B.S. in <i>Information Engineering</i> at School of Information and Communication Engineering and in <i>Finance</i> at School of Economics and Finance. 
+      </li>
+      </ul>
+    </ul>
+</p>
+
+<h1>Intern Experiences</h1>
+
+<div style="text-align:center;width:700px;border:greensolid1px;">
+<img src="/assets/img/logo/sensetime.jpg" height="90" width="90" style="margin:0 auto;"/>
+</div>
+<p>
+    <ul>
+    <li>2021.12 - 2022.10  &nbsp; &nbsp;  Algorithm Research Intern &nbsp; &nbsp; SenseTime</li>
+      <ul>
+      <li>
+         Work at International Research & Development Center (IRDC).
+      </li>
+      <li>
+        Research in 2D vision algorithms and their practical applications (Advised by <a href="https://scholar.google.com/citations?user=yAzah8MAAAAJ&hl=zh-CN&oi=ao">Shinan Liu</a>)
       </li>
       </ul>
     </ul>
