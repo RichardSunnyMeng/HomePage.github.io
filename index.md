@@ -62,7 +62,7 @@ profile_picture:
 <h1>Intern Experiences</h1>
 
 <div style="text-align:center;width:700px;border:greensolid1px;">
-<img src="/assets/img/logo/sensetime.jpg" height="90" width="90" style="margin:0 auto;"/>
+<img src="/assets/img/logo/sensetime.png" height="90" width="90" style="margin:0 auto;"/>
 </div>
 <p>
     <ul>
