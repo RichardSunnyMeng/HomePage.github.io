@@ -23,10 +23,6 @@ footer:
       value: zheling.meng@cripac.ia.ac.cn
       link: mailto:zheling.meng@cripac.ia.ac.cn
   follow:
-    - name: GitHub
-      link: https://github.com/RichardSunnyMeng
-    - name: Zhihu
-      link: https://www.zhihu.com/people/SunnyPicture
     - name: Google
       link: https://scholar.google.com/citations?user=3iPjpvQAAAAJ&hl=zh-CN&oi=ao
 
