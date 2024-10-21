@@ -81,7 +81,9 @@ profile_picture:
 <h1>Publications</h1>
 <p>
   <ol>
-    <li><b>Zheling Meng</b><sup>#</sup>, Yangyang Zhu<sup>#</sup>, Wenjing Pang, Jie Tian, Fang Nie<sup>*</sup>, Kun Wang<sup>*</sup>. MSMFN: An Ultrasound Based Multi-step Modality Fusion Network for Identifying the Histologic Subtypes of Metastatic Cervical Lymphadenopathy. <i>IEEE Transactions on Medical Imaging</i> (<b>TMI</b>), 42(4):996-1008, 2022. (JCR Q1，IF 11.037).</li>
+    <li><b>Zheling Meng</b><sup>#</sup>, Yangyang Zhu<sup>#</sup>, Wenjing Pang, Jie Tian, Fang Nie<sup>*</sup>, Kun Wang<sup>*</sup>. MSMFN: An Ultrasound Based Multi-step Modality Fusion Network for Identifying the Histologic Subtypes of Metastatic Cervical Lymphadenopathy. <i>IEEE Transactions on Medical Imaging</i> (<b>T-MI</b>), 42(4):996-1008, 2022. (JCR Q1，IF 11.037).</li>
+    <li><b>Zheling Meng</b>, Bo Peng, Jing Dong<sup>*</sup>. Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Space. <i>IEEE Transactions on Multimedia</i> (<b>T-MM</b>), early access, 2024.</li>
+    <li><b>Zheling Meng</b>, Bo Peng, Jing Dong<sup>*</sup>, Tieniu Tan, Haonan Cheng. Artifact Feature Purification for Cross-domain Detection of AI-generated Images. <i>Computer Vision and Image Understanding</i> (<b>CVIU</b>), 247: 104078, 2024. (JCR Q1, IF 4.202)</li>
     <li><b>Zheling Meng</b><sup>#</sup>, Yangyang Zhu<sup>#</sup>, Xiao Fan, Jie Tian, Fang Nie<sup>*</sup>, Kun Wang<sup>*</sup>. CEUSegNet: A Cross-Modality Lesion Segmentation Network for Contrast-Enhanced Ultrasound. <i>IEEE International Symposium on Biomedical Imaging</i> (<b>ISBI</b>), pp.1-5, Full Paper, 2022. (EI).</li>
     <li>Yangyang Zhu<sup>#</sup>, <b>Zheling Meng</b><sup>#</sup>, Xiao Fan, Yin Duan, Yingying Jia, Tiantian Dong, Yanfang Wang, Juan Song, Jie Tian, Kun
 Wang<sup>*</sup>, Fang Nie<sup>*</sup>. Deep Learning Radiomics of Dual-modality Ultrasound Images for Hierarchical Diagnosis of Unexplained Cervical Lymphadenopathy. <i>BMC Medicine</i>, 20(1): 269-281, 2022. (JCR Q1，IF 11.150).</li>
@@ -96,8 +98,7 @@ Co-first Author<sup>#</sup>, Corresponding Author<sup>*</sup>
 <h1>Preprint Publications</h1>
 <p>
   <ol>
-    <li><b>Zheling Meng</b>, Bo Peng, Jing Dong<sup>*</sup>, Tieniu Tan. Artifact Feature Purification for Cross-domain Detection of AI-generated Images. <i>arXiv preprint arXiv:2403.11172</i>, 2024.</li>
-    <li><b>Zheling Meng</b>, Bo Peng, Jing Dong<sup>*</sup>. Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Space. <i>arXiv preprint arXiv:2404.00230</i>, 2024.</li>
+    <li><b>Zheling Meng</b>, Bo Peng, Xiaochuan Jin, Yue Jiang, Jing Dong<sup>*</sup>, Wei Wang, Tieniu Tan. Dark Miner: Defend against unsafe generation for text-to-image diffusion models. <i>arXiv preprint arXiv:2409.17682</i>, 2024.</li>
   </ol>
 Co-first Author<sup>#</sup>, Corresponding Author<sup>*</sup>
 </p>
