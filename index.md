@@ -13,9 +13,7 @@ profile_picture:
   
   I am pursing my Ph.D at New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences. 
   
-  My research interests include Computer Vision and AIGC safety. Recently, I focus on defense against content risks of T2I/T2V diffusion models, especially with the help of concept erasure and LLM/VLM. 
-  
-  Feel free to contact with me for communication and cooperation (Email: zheling.meng@cripac.ia.ac.cn).
+  My research interests include Computer Vision and AIGC safety. Recently, I focus on defense against content risks of T2I/T2V diffusion models. Feel free to contact with me for communication and cooperation (Email: zheling.meng@cripac.ia.ac.cn).
 
 <br />
 <br />
@@ -82,7 +80,7 @@ profile_picture:
 <p>
   <ol>
     <li><b>Zheling Meng</b><sup>#</sup>, Yangyang Zhu<sup>#</sup>, Wenjing Pang, Jie Tian, Fang Nie<sup>*</sup>, Kun Wang<sup>*</sup>. MSMFN: An Ultrasound Based Multi-step Modality Fusion Network for Identifying the Histologic Subtypes of Metastatic Cervical Lymphadenopathy. <i>IEEE Transactions on Medical Imaging</i> (<b>T-MI</b>), 42(4):996-1008, 2022. (JCR Q1，IF 11.037).</li>
-    <li><b>Zheling Meng</b>, Bo Peng, Jing Dong<sup>*</sup>. Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Space. <i>IEEE Transactions on Multimedia</i> (<b>T-MM</b>), early access, 2024.</li>
+    <li><b>Zheling Meng</b>, Bo Peng, Jing Dong<sup>*</sup>. Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Space. <i>IEEE Transactions on Multimedia</i> (<b>T-MM</b>), accepted, 2024.</li>
     <li><b>Zheling Meng</b>, Bo Peng, Jing Dong<sup>*</sup>, Tieniu Tan, Haonan Cheng. Artifact Feature Purification for Cross-domain Detection of AI-generated Images. <i>Computer Vision and Image Understanding</i> (<b>CVIU</b>), 247: 104078, 2024. (JCR Q1, IF 4.202)</li>
     <li><b>Zheling Meng</b><sup>#</sup>, Yangyang Zhu<sup>#</sup>, Xiao Fan, Jie Tian, Fang Nie<sup>*</sup>, Kun Wang<sup>*</sup>. CEUSegNet: A Cross-Modality Lesion Segmentation Network for Contrast-Enhanced Ultrasound. <i>IEEE International Symposium on Biomedical Imaging</i> (<b>ISBI</b>), pp.1-5, Full Paper, 2022. (EI).</li>
     <li>Yangyang Zhu<sup>#</sup>, <b>Zheling Meng</b><sup>#</sup>, Xiao Fan, Yin Duan, Yingying Jia, Tiantian Dong, Yanfang Wang, Juan Song, Jie Tian, Kun
